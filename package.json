@@ -1,0 +1,11 @@
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "description": "this is npm package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "author": "sen",
+  "license": "MIT"
+}
